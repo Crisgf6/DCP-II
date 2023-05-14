@@ -3,7 +3,7 @@ Repositorio de código del trabajo de Evaluación de Capacidades en la Empresa I
 --
 Aquí se encuentran los **programas benchmark** desarrollados en el trabajo.
 
-## Ficheros `cpp`
+## Ficheros `.cpp`
 
 Estos ficheros contienen el programa que implementa los algoritmos
 
